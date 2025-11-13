@@ -326,7 +326,34 @@ var APP_DATA = {
     },
     {
       "id": "12-gym",
-      "name": "gym",
+      "name": "GYM",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "13-r-makan--r-keluarga",
+      "name": "R. MAKAN & R. KELUARGA",
       "levels": [
         {
           "tileSize": 256,
