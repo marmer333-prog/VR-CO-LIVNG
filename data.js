@@ -352,8 +352,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "13-r-makan--r-keluarga",
-      "name": "R. MAKAN & R. KELUARGA",
+      "id": "13-r-makan--r-komunal",
+      "name": "R. MAKAN & R. KOMUNAL",
       "levels": [
         {
           "tileSize": 256,
